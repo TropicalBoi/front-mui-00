@@ -1,11 +1,23 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Name{
+  font-size: 18px;
+  color: #5b626e;
 }
+
+.CardDetail{
+  font-size: 24px;
+  color: black;
+  margin: 0;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
