@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/front-mui-00/static/css/main.b296f377.css",
+    "main.js": "/front-mui-00/static/js/main.a8037758.js",
+    "static/js/787.509cd277.chunk.js": "/front-mui-00/static/js/787.509cd277.chunk.js",
+    "index.html": "/front-mui-00/index.html",
+    "main.b296f377.css.map": "/front-mui-00/static/css/main.b296f377.css.map",
+    "main.a8037758.js.map": "/front-mui-00/static/js/main.a8037758.js.map",
+    "787.509cd277.chunk.js.map": "/front-mui-00/static/js/787.509cd277.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b296f377.css",
+    "static/js/main.a8037758.js"
+  ]
+}
